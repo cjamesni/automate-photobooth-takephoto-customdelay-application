@@ -5,6 +5,6 @@
  
  <br>
  
-![image](https://github.com/cjamesni/automate-photobooth-takephoto-customdelay-application/blob/0a41bdd4f64a84f828da0cacf3301365dd588485/AutomatePhotoBooth-TakePhoto-CustomDelay.workflow/Contents/QuickLook/automator+photobooth.png)
+![image](https://github.com/cjamesni/automate-photobooth-takephoto-customdelay-application/blob/176f84b1eca55164cef49b862c1f3b1e96d2deb9/AutomatePhotoBooth-TakePhoto-CustomDelay.workflow/Contents/QuickLook/automator+photobooth.png)
 
-![image](https://github.com/cjamesni/automate-photobooth-takephoto-customdelay-application/blob/5443c93f4c1bac579e06390ce96d6332b38fae96/AutomatePhotoBooth-TakePhoto-CustomDelay.workflow/Contents/QuickLook/Preview.png)
+![image](https://github.com/cjamesni/automate-photobooth-takephoto-customdelay-application/blob/176f84b1eca55164cef49b862c1f3b1e96d2deb9/AutomatePhotoBooth-TakePhoto-CustomDelay.workflow/Contents/QuickLook/Preview.png)
