@@ -1,7 +1,7 @@
 # automate-photobooth-takephoto-customdelay-application
  
  
- A simple macOS application which runs a custom Automator workflow and passes System Event calls to launch the Photo Booth application and take photos with custom delay and loop options via Applescript.
+ A simple macOS application which runs a custom Automator workflow and passes a System Events call to launch the Photo Booth application and take photos with custom delay and loop options via Applescript.
  
  <br>
  
